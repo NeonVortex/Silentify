@@ -1,7 +1,7 @@
 Silentify
 =========
 
-*Deprecated since Android 5 now provides same feature called interruptions
+**OBSOLTED** since Android 5 now provides same feature called interruptions
 
 A customizable sound/ringtone manager for Android
 
